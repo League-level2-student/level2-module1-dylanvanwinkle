@@ -20,7 +20,7 @@ public class ArrayListDemo {
 			System.out.println("String at element " + i + " " + s);
 		}
 		System.out.println("\n");
-		
+
 		//iterating through list with for-each loop
 		for(String s : names){
 			System.out.println(s);
